@@ -1,12 +1,12 @@
   h1
                 {
-                    background-color: aquamarine;
+                    background-color: green;
                 }
 
  body
  {
-    background-color: blueviolet;
-     color:darkgoldenrod
+    background-color:greenyellow;
+     color:rgb(0, 0, 0)
  }
 
  div p
