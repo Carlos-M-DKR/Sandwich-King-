@@ -1,0 +1,24 @@
+  h1
+                {
+                    background-color: aquamarine;
+                }
+
+ body
+ {
+    background-color: blueviolet;
+     color:darkgoldenrod
+ }
+
+ div p
+ {
+    color:dodgerblue
+ }
+
+:hover
+{
+    color:darkred
+}
+input[type="test"]
+{ 
+    color:magenta
+}
