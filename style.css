@@ -6,12 +6,14 @@
  body
  {
     background-color:greenyellow;
+    font-family;Ariel
      color:rgb(0, 0, 0)
  }
 
  div p
  {
-    color:dodgerblue
+    color:dodgerblue;
+    font-family;Comic Sans
  }
 
 :hover
