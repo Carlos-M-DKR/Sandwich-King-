@@ -40,7 +40,7 @@ h1
  body
  {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-    background-image: url('https://us.123rf.com/450wm/alazur/alazur1610/alazur161000009/64951053-fast-food-and-express-cafe-interior-flat-design-illustration.jpg?ver=6');
+    background-image: url('https://turnerduckworth.com/media/uploads/case_studies/project/refreshing_fresh/Subway_Hero_LR.webp');
 background-size: cover;
  }
 
@@ -64,7 +64,4 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 {
     color:rgb(0, 0, 0)
 }
-
-input[type="test"]
-{ 
-    color:magenta}
+}
