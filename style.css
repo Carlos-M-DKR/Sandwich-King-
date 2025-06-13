@@ -1,4 +1,37 @@
-  h1
+
+.container
+ {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    background-color:rgb(70, 159, 68);  
+ }
+
+.item
+{
+    background-color: rgb(31, 53, 1);
+    color:rgb(160, 224, 64);
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+
+.container2
+ {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    background-color:rgb(69, 169, 67);  
+ }
+
+.item2
+{
+    background-color: rgb(31, 53, 1);
+    color:rgb(79, 106, 24);
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+} 
+h1
                 {
                     background-color: green;
                     font-family: Comic Sans;
@@ -6,10 +39,20 @@
 
  body
  {
-    background-color:greenyellow;
-    font-family: Ariel;
-     color:rgb(0, 0, 0)
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    background-image: url('https://us.123rf.com/450wm/alazur/alazur1610/alazur161000009/64951053-fast-food-and-express-cafe-interior-flat-design-illustration.jpg?ver=6');
+background-size: cover;
  }
+
+h1 h2
+{
+    color:darkturquoise
+}
+ article
+ {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ 
 
  div p
  {
@@ -21,7 +64,7 @@
 {
     color:rgb(0, 0, 0)
 }
+
 input[type="test"]
 { 
-    color:magenta
-}
+    color:magenta}
